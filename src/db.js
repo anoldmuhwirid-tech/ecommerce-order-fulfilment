@@ -1,3 +1,4 @@
+// Task 2: shipments and transactions
 // MySQL connection pool - all credentials come from environment variables.
 const mysql = require("mysql2");
 
