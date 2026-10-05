@@ -1,3 +1,4 @@
+// Task 1: external API gateway
 // Task 1 - Third-party Web API integrations (gateway/middleware layer).
 //  1. ExchangeRate-API (open.er-api.com)  -> real-time currency conversion
 //  2. Zippopotam.us                        -> postcode / address validation
