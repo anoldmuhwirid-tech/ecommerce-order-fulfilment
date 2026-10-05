@@ -1,5 +1,7 @@
 // Module Dependencies
-require("dotenv").config(); // Task 4: load secrets from .env (never hardcoded)
+require("dotenv").config();
+// Task 4: deployment config
+ // Task 4: load secrets from .env (never hardcoded)
 const express = require("express");
 const path = require("path");
 const bcrypt = require("bcryptjs");
